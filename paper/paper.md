@@ -2,38 +2,41 @@
 title: 'BioHackEU24 report: Bioschemas for Mortals'
 title_short: 'BioHackEU24 #10: Bioschemas for Mortals'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - markup
+  - schemas
 authors:
-  - name: First Author
+  - name: Nick Juty
+    orcid: 0000-0002-2036-8350
     affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+  - name: Helena Schnitzer
+    orcid: 0000-0002-6382-9452
     affiliation: 2
+  - name: Phil Reed
+    orcid: 0000-0002-4479-715X
+    affiliation: 1
 affiliations:
-  - name: First Affiliation
+  - name: The University of Manchester, UK
     index: 1
-  - name: Second Affiliation
+  - name: Forschungszentrum Jülich, DE
     index: 2
 date: 8 November 2023
 cito-bibliography: paper.bib
-event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
+event: BH24EU
+biohackathon_name: "BioHackathon Europe 2024"
 biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
-group: Project 26
+biohackathon_location: "Barcelona, Spain, 2024"
+group: Project 10
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: https://github.com/PhilReedData/bioschemas-for-mortals
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Nick Juty, Helena Schnitzer, Phil Reed
 ---
 
 
 # Introduction
 
-As part of the BioHackathon Europe 2023, we here report...
+As part of the BioHackathon Europe 2024, we here report...
 
 # Formatting
 
