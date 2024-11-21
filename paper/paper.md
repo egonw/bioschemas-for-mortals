@@ -33,6 +33,12 @@ git_url: https://github.com/PhilReedData/bioschemas-for-mortals
 authors_short: Nick Juty, Helena Schnitzer, Phil Reed
 ---
 
+- Led by: Nick Juty, Helena Schnitzer, Phil Reed
+- Participants (on site): Emily Knight, Lucy Pelton, Deborah van Wyk
+- Online: Leyla Jael Castro, Munazah Andrabi, Ulrike Wittig, Finn Bacall, Ginger Tseung
+- Interactions with other groups: #24, #21 
+- Project Repository: https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/10.md
+
 
 # Introduction
 
