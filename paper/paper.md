@@ -73,6 +73,17 @@ Where is tutorials/community - it's not in the menu? Same for many other ‘tuto
 
 While we attempt to evaluate the conversions (where there is a concrete action that is the result of having viewed some page), at best we can only approximate what this would manifest as, in the context of guidance/tutorials. There may, with sufficient information, be a way to see, for example, whether some guidance specifying the use of GitHub corresponded to some GitHub commits. We could also look further to delineate between new users and returning users. 
 
+# Task 2: User Stories
+...
+
+![Types of persona surveyed](task-2.png)
+
+...
+
+# Task 3: Drop in session to facilitate Task 2
+...
+![image from drop in session, 17:00 CET, 6th Nov 2024](task-3.png)
+...
 
 # Formatting
 
@@ -151,3 +162,28 @@ Possible CiTO typing annotation include:
 ...
 
 ## References
+
+# Appendices
+
+## Appendix A1
+![Views and engagement rates of pages, measured with Google Analytics.](appendix-a1.png)
+
+## Appendix A2.1
+![The user stories for Bioschemas, organised by persona.](appendix-a2.1.png)
+
+## Appendix A2.2
+![Visual clustering of user story concepts, within each persona, and related tasks.](appendix-a2.2.png)
+
+## Appendix A7
+![Example image showing difference between Types and Profiles.](appendix-a7.png)
+
+## Appendix A8.1
+![Layout suggestion for the infographic, showing the cloud of websites using Schema.org.](appendix-a8.1.png)
+
+
+## Appendix A8.2
+![Initial illustration of the infographic ‘Why use Bioschemas?’.](appendix-a8.2.png)
+
+## Appendix B
+![Gallery of icebreaker drawings of each other with our eyes closed (leads).](appendix-b1.png)
+![Gallery of icebreaker drawings of each other with our eyes closed (participants).](appendix-b2.png)
