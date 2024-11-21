@@ -1,6 +1,6 @@
 ---
-title: 'BioHackEU23 report: Template for the very long title'
-title_short: 'BioHackEU23 #26: unknown chemical substances'
+title: 'BioHackEU24 report: Bioschemas for Mortals'
+title_short: 'BioHackEU24 #10: Bioschemas for Mortals'
 tags:
   - cheminformatics
   - PubChem
