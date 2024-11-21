@@ -36,7 +36,37 @@ authors_short: Nick Juty, Helena Schnitzer, Phil Reed
 
 # Introduction
 
-As part of the BioHackathon Europe 2024, we here report...
+Bioschemas is a community effort to improve the FAIRness of web-based resources. Established by ELIXIR over seven years ago, it has good adoption by the technical communities in workflows, software, and tools but less adoption than it should be. Particularly in less technical communities such as training or even data services.
+
+The Bioschemas website hosts tooling, training and guidance materials. Practical 'how to use Bioschemas' help and examples have been neglected. Guidance is technical - written by techies for techies - inappropriate or inaccessible for a large cohort of potential Bioschemas users. Examples focus on simple use cases and not real set-ups that users actually encounter in their work. This makes access to directly usable markup impossible, leaving users confused about where to go next. This lack of helpful support poses an unacceptably high technical barrier for the broader user community and means we are not fully exploiting Bioschemas. Common complaints frequently cite a technical ‘barrier’, the lack of ‘lightweight’ guidance, the need to ‘demystify’ and the lack of assistance to users who have the desire to implement Bioschemas, but not the ‘how’.
+
+The goal of this project is to reimagine, reframe and supplement the existing Bioschemas guidance available. Working with non-technical users from the data and training platforms, Patterns of use, tasks(different CMS; properties) and user personas. This will be used to provide users with specific code examples that can be copy/pasted, documented examples for different web setups, customised guidance for different personas and be validated by non-technical users in the data and training platforms.
+
+# Task 1: Analytics
+
+Google Analytics information was captured from July - Nov 2024 (ongoing). Data was captured and analysed over this period in an effort to ascertain user behaviour, including sessions, location of originating request, transitions, pages accessed, view time (engagement), landing page (page session started), and source (direct, organic search and referral). 
+
+## Main outcomes
+
+Roughly 33% of visits from users arriving from ‘direct’ routes (bookmark or web link) resulted in ‘engaged’ sessions, while almost 50% engagement was seen when using ‘referral’ links.
+
+Large numbers of visits were to ‘Training’ related pages, which we believe are a result of current work in those areas, for example, Training Platform improving its process with respect to being scrapeable by TeSS.
+
+Excluding such links which were explainable as ‘noise’, we note that some ‘help’ URLs were highly accessed, including ‘/tutorials/howto/...’ on ‘bioschemas’, ‘add markup’, ‘add github’. We conclude that help pages are among those most visited, after excluding explainable phenomena. 
+
+
+## Next Steps
+
+We will continue to collect analytics information going forward, to identify whether changes made in the webpages/organisation of materials and their availability are visible through the analytics. This is supported by engagement times on those pages. (Appendix A.1).
+
+There appears to be a clear need, supported by other tasks in this work, especially user stories, suggesting that more general guidance is needed. 
+
+Further analysis of the analytics could be undertaken to understand the needs or guidance viewed on a national level, for instance, whether there are regional differences in the needs in Germany vs those in the UK.
+
+Where is tutorials/community - it's not in the menu? Same for many other ‘tutorials’ viewed
+
+While we attempt to evaluate the conversions (where there is a concrete action that is the result of having viewed some page), at best we can only approximate what this would manifest as, in the context of guidance/tutorials. There may, with sufficient information, be a way to see, for example, whether some guidance specifying the use of GitHub corresponded to some GitHub commits. We could also look further to delineate between new users and returning users. 
+
 
 # Formatting
 
