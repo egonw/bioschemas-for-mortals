@@ -151,7 +151,7 @@ Possible CiTO typing annotation include:
 
 ...
 
-## Acknowledgements
+# Acknowledgements
 
 - Led by: Nick Juty, Helena Schnitzer, Phil Reed
 - Participants (on site): Emily Knight, Lucy Pelton, Deborah van Wyk
@@ -160,7 +160,6 @@ Possible CiTO typing annotation include:
 - Project Repository: https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/10.md
 
 
-## References
 
 # Appendices
 
@@ -186,3 +185,6 @@ Possible CiTO typing annotation include:
 ## Appendix B
 ![Gallery of icebreaker drawings of each other with our eyes closed (leads).](appendix-b1.png)
 ![Gallery of icebreaker drawings of each other with our eyes closed (participants).](appendix-b2.png)
+
+
+# References
