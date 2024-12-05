@@ -70,13 +70,13 @@ While we attempt to evaluate the conversions (where there is a concrete action t
 # Task 2: User Stories
 ...
 
-![Types of persona surveyed](task-2.png)
+![Pie chart showing types of persona surveyed](task-2.png)
 
 ...
 
 # Task 3: Drop in session to facilitate Task 2
 ...
-![image from drop in session, 17:00 CET, 6th Nov 2024](task-3.png)
+![Screenshot from the drop in session, 17:00 CET, 6th Nov 2024](task-3.png)
 ...
 
 # Formatting
