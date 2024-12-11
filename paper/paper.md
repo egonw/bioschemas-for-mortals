@@ -5,14 +5,14 @@ tags:
   - markup
   - schemas
 authors:
-  - name: Nick Juty
-    orcid: 0000-0002-2036-8350
+  - name: Phil Reed
+    orcid: 0000-0002-4479-715X
     affiliation: 1
   - name: Helena Schnitzer
     orcid: 0000-0002-6382-9452
     affiliation: 2
-  - name: Phil Reed
-    orcid: 0000-0002-4479-715X
+  - name: Nick Juty
+    orcid: 0000-0002-2036-8350
     affiliation: 1
 affiliations:
   - name: The University of Manchester, UK
@@ -36,7 +36,7 @@ authors_short: Nick Juty, Helena Schnitzer, Phil Reed
 
 # Introduction
 
-Bioschemas is a community effort to improve the FAIRness of web-based resources. Established by ELIXIR over seven years ago, it has good adoption by the technical communities in workflows, software, and tools but less adoption than it should be. Particularly in less technical communities such as training or even data services.
+Bioschemas is a community effort `[Gray2023]` to improve the FAIRness of web-based resources. Established by ELIXIR over seven years ago, it has good adoption by the technical communities in workflows, software, and tools but less adoption than it should be. Particularly in less technical communities such as training or even data services.
 
 The Bioschemas website hosts tooling, training and guidance materials. Practical 'how to use Bioschemas' help and examples have been neglected. Guidance is technical - written by techies for techies - inappropriate or inaccessible for a large cohort of potential Bioschemas users. Examples focus on simple use cases and not real set-ups that users actually encounter in their work. This makes access to directly usable markup impossible, leaving users confused about where to go next. This lack of helpful support poses an unacceptably high technical barrier for the broader user community and means we are not fully exploiting Bioschemas. Common complaints frequently cite a technical ‘barrier’, the lack of ‘lightweight’ guidance, the need to ‘demystify’ and the lack of assistance to users who have the desire to implement Bioschemas, but not the ‘how’.
 
@@ -116,9 +116,9 @@ You can use [CiTO](http://purl.org/spar/cito/2018-02-12) annotations, as explain
 Using this template, you can cite an article and indicate _why_ you cite that article, for instance DisGeNET-RDF [@citesAsAuthority:Queralt2016].
 
 The syntax in Markdown is as follows: a single intention annotation looks like
-`[@usesMethodIn:Krewinkel2017]`; two or more intentions are separated
-with colons, like `[@extends:discusses:Nielsen2017Scholia]`. When you cite two
-different articles, you use this syntax: `[@citesAsDataSource:Ammar2022ETL; @citesAsDataSource:Arend2022BioHackEU22]`.
+`[@usesMethodIn:Arend2023]`; two or more intentions are separated
+with colons, like `[@extends:discusses:Castro2023]`. When you cite two
+different articles, you use this syntax: `[@citesAsDataSource:Rosinach2023; @citesAsDataSource:Soiland-Reyes2024]`.
 
 Possible CiTO typing annotation include:
 
