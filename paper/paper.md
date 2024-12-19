@@ -36,11 +36,17 @@ authors_short: Phil Reed, Helena Schnitzer, Nick Juty
 
 # Introduction
 
-Bioschemas is a community effort `[@citesAsAuthority:Gray2023]` to improve the FAIRness of web-based resources. Established by ELIXIR over seven years ago, it has good adoption by the technical communities in workflows, software, and tools `[@citesForInformation:Castro2023;  @citesForInformation:Rosinach2023; @citesForInformation:Arend2024; @citesForInformation:Soiland-Reyes2024]` but less adoption than it should be. Particularly in less technical communities such as training or even data services.
+Bioschemas is a community effort `[@citesAsAuthority:Gray2023]` to improve the FAIRness of web-based resources. 
+<!-- more explanation needed? 'improve FAIRness' ... link/reference this? -->
+Established by ELIXIR over seven years ago, it has good adoption by the technical communities in workflows, software, and tools `[@citesForInformation:Castro2023;  @citesForInformation:Rosinach2023; @citesForInformation:Arend2024; @citesForInformation:Soiland-Reyes2024]` but less adoption than it should be. Particularly in less technical communities such as training or even data services.
 
 The Bioschemas website hosts tooling, training and guidance materials. Practical 'how to use Bioschemas' help and examples have been neglected. Guidance is technical - written by techies for techies - inappropriate or inaccessible for a large cohort of potential Bioschemas users. Examples focus on simple use cases and not real set-ups that users actually encounter in their work. This makes access to directly usable markup impossible, leaving users confused about where to go next. This lack of helpful support poses an unacceptably high technical barrier for the broader user community and means we are not fully exploiting Bioschemas. Common complaints frequently cite a technical ‘barrier’, the lack of ‘lightweight’ guidance, the need to ‘demystify’ and the lack of assistance to users who have the desire to implement Bioschemas, but not the ‘how’.
 
-The goal of this project is to reimagine, reframe and supplement the existing Bioschemas guidance available. Working with non-technical users from the data and training platforms, Patterns of use, tasks (different CMS; properties) and user personas. This will be used to provide users with specific code examples that can be copy/pasted, documented examples for different web setups, customised guidance for different personas and be validated by non-technical users in the data and training platforms.
+The goal of this project is to reimagine, reframe and supplement the existing Bioschemas guidance available. 
+<!-- should we add a short roadmap paragraph, summarising what this paper will cover? Next sentence sort of does this, in part.
+# Perhaps next sentence should be replaced with list of the 8 tasks, summarised? -->
+Working with non-technical users from the data and training platforms, patterns of use, tasks (different content management systesms (CMS); properties) and user personas. 
+This will be used to provide users with specific code examples that can be copy/pasted, documented examples for different web setups, customised guidance for different personas and be validated by non-technical users in the data and training platforms.
 
 # Task 1: Analytics
 
@@ -51,6 +57,8 @@ Google Analytics information was captured from July to November 2024 (and is ong
 Roughly 33% of visits from users arriving from ‘direct’ routes (bookmark or web link) resulted in ‘engaged’ sessions, while almost 50% engagement was seen when using ‘referral’ links.
 
 Large numbers of visits were to ‘Training’ related pages, which we believe are a result of current work in those areas, for example, ELIXIR Training Platform improving its process with respect to being scrapeable by TeSS.
+<!-- What does this mean? Suggest replace:
+.. for example, the ELIXIR Training Platform is currently developing guidance on how to mark up training materials so they can be discovered by the ELIXIR TeSS portal.  -->
 
 Excluding such links which were explainable as ‘noise’, we note that some ‘help’ URLs were highly accessed, including ‘/tutorials/howto/…’ on ‘bioschemas’, ‘add markup’, ‘add github’. We conclude that help pages are among those most visited, after excluding explainable phenomena. 
 
@@ -101,7 +109,7 @@ While the Bioschemas website does provide help and guidance, it is somewhat scat
 
 The [register](https://docs.google.com/spreadsheets/d/1pjHv7oKqt-RDcIWIL3r0MNISLj2JHRSL/edit?gid=1406033492#gid=1406033492) of assets includes documentation (by type), whether up to date, for materials both internal and available through some key external resources such TeSS and Zenodo. Some of the information here also ties into the web interface and usability of Bioschemas (Task 7).
 
-1. Use cases are only available from the specification (profiles) & a page of use cases (under live deploys) which is not on the menu, and does not list all use cases.   
+1. Use cases are only available from the specification (profiles) & a page of use cases (under live deploys) which is not on the menu, and does not list all use cases.   <!-- could be clearer: Use cases are only available from the specification (profiles) and a page of use cases (under live deploys); the latter is not on the navigation menus at all, and not all use cases are linked from the profiles pages  -->
 2. There is a 2nd repo for specifications but the link is labelled examples; not accessible (images in a table). The examples is different from the pop up (3)  
 3. Profiles have pop up examples, but others are from repo (2)  
 4. Can reach use cases from profile by the links tab \- could be clearer  
@@ -153,8 +161,7 @@ We have created a list of improvements that could be made to the website to faci
 After discussion on the technical effort required in implementing all requests listed in Table 1, consideration must be given to whether a re-implementation may be less resource-intensive. Implementation of requested features should be mindful of differing expertise levels with the existing infrastructure (1 week for an informed expert, versus 1 month for someone unfamiliar with the subject).
 
 
-Bioschemas website UX/UI improvements proposed
-
+Bioschemas website UX/UI improvements proposed <!-- Priority of improvements -->
 | Category | Summary | Implementation Difficulty | Comment |
 | :---- | :---- | :---- | :---- |
 | New feature | Show the current page in the menu | Low | Could lift from [ETT](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) |
@@ -198,8 +205,9 @@ In a short brainstorm session we have drafted one panel (or a 3 or 4 panel infog
 
 ## Next steps
 
-More work is needed to converge upon the remaining ‘panels’ for the infographic. This can be undertaken in a community exercise, possibly on the bioschemas community call. Also during this event we had an icebreaker activity, where participants drew a colleague with their eyes shut (Appendix B).  
-
+More work is needed to converge upon the remaining ‘panels’ for the infographic. This can be undertaken in a community exercise, possibly on the bioschemas community call. 
+Also during this event we had an icebreaker activity, where participants drew a colleague with their eyes shut (Appendix B).  
+<!-- Should this be moved to a different section? :: Yes, with the acknowledgments -->
 
 
 # Acknowledgements
