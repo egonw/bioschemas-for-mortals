@@ -217,7 +217,7 @@ Also during this event we had an icebreaker activity, where participants drew a 
 - Online: Leyla Jael Castro, Munazah Andrabi, Ulrike Wittig, Finn Bacall, Ginger Tseung
 - Interactions with other groups: \#[24](https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/24.md), \#[21](https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/21.md) 
 - Project Repository: https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/10.md
-
+<!-- - Also during this event we had an icebreaker activity, where participants drew a colleague with their eyes shut (Appendix B). -->
 
 
 # Appendices
