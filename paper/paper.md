@@ -124,14 +124,14 @@ This information can be used in other tasks. Firstly, further work is required t
 
 # Task 5: Guide to using markup generator
 
-This task was undertaken as a subtask of Task 4, and has been completed.
+This task was undertaken as a sub-task of Task 4, and has been completed.
 
 
 # Task 6: Governance for contributions
 
-There exists [governance documentation](https://github.com/BioSchemas/governance/tree/master) for community contributions to profiles and types. It does not cover contributions to guidelines and documentation, which may be written by a wider set of personas, including those with less technical experience. Task 6 seeks to fill this gap, proposing additional governance for guidelines and documentation contributions. This task was deprioritised and will be revisited when possible. This would describe how users can contribute to missing guidance, help in its review, and would include for example the provision of templates to facilitate submissions.
+There exists [governance documentation](https://github.com/BioSchemas/governance/tree/master) for community contributions to profiles and types. However, it does not cover contributions to guidelines and documentation, which may be written by a wider set of personas, including those with less technical experience or expertise. Task 6 seeks to fill this gap, proposing additional governance for guidelines and documentation contributions. This task was deprioritised and will be revisited when possible. This would describe how users can contribute to missing guidance, help in its review, and would include for example the provision of templates to facilitate submissions.
 
-Two ways of contribution are possible. Contributors can either submit their work via Google Docs or directly through GitHub, with the latter being our preferred option for convenience.
+Currently, there are two ways of contributing. Contributors can either submit their work via Google Docs or directly through GitHub, with the latter being the preferred option for the convenience of the editors.
 
 It is crucial to determine who will handle the review process, ensuring the materials align with our guidelines, serve the intended purpose, and are thoroughly tested.   
 Any recommendations will need to be formally presented to the Bioschemas steering group for approval.
