@@ -50,20 +50,20 @@ Google Analytics information was captured from July to November 2024 (and is ong
 
 Roughly 33% of visits from users arriving from ‘direct’ routes (bookmark or web link) resulted in ‘engaged’ sessions, while almost 50% engagement was seen when using ‘referral’ links.
 
-Large numbers of visits were to ‘Training’ related pages, which we believe are a result of current work in those areas, for example, ELIXIR Training Platform improving its process with respect to being scrapeable by TeSS.
+Large numbers of visits were to ‘Training’ related pages, which we believe are a result of current work in those areas, for example, the ELIXIR Training Platform is currently developing [guidance on how to mark up training materials](https://elixir-europe-training.github.io/ELIXIR-TrP-Bioschemas/) so they can be discovered by the [ELIXIR TeSS](https://tess.elixir-europe.org/about) (Training eSupport System) portal.
 
-Excluding such links which were explainable as ‘noise’, we note that some ‘help’ URLs were highly accessed, including ‘/tutorials/howto/…’ on ‘bioschemas’, ‘add markup’, ‘add github’. We conclude that help pages are among those most visited, after excluding explainable phenomena. 
+We note that some ‘help’ URLs were highly accessed, including ‘/tutorials/howto/…’ on ‘bioschemas’, ‘add markup’, and ‘add github’. We excluded such links which were explainable as ‘noise’ in the context of this work. We conclude that help pages are among those most visited, after excluding explainable phenomena. 
 
 
-## Next Steps
+## Next steps
 
-We will continue to collect analytics information going forward, to identify whether changes made in the webpages/organisation of materials and their availability are visible through the analytics. This is supported by engagement times on those pages. (Appendix A.1).
+We will continue to collect analytics information going forward, to identify whether changes made in the webpages/organisation of materials and their availability impact the findability and usability of the guidance. This may manifest as  increased engagement times on those pages, for example. (Appendix A.1).
 
 There appears to be a clear need, supported by other tasks in this work, especially user stories, suggesting that more general guidance is needed. 
 
 Further analysis of the analytics could be undertaken to understand the needs or guidance viewed on a national level, for instance, whether there are regional differences in the needs in Germany versus those in the UK.
 
-Several tutorials and pages about community engagement are not discoverable because they do not appear in the menu. More is required to expose all available support in a sensible way. 
+Several tutorials and pages about community engagement are not discoverable because they do not appear in the menu. More is required to expose all available support in a systematic way. 
 
 While we attempt to evaluate the conversions (where there is a concrete action that is the result of having viewed some page), at best we can only approximate what this would manifest as, in the context of guidance/tutorials. There may, with sufficient information, be a way to see, for example, whether some guidance specifying the use of GitHub corresponded to some GitHub commits. We could also look further to delineate between new users and returning users. 
 
