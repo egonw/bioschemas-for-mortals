@@ -69,53 +69,55 @@ While we attempt to evaluate the conversions (where there is a concrete action t
 
 
 # Task 2: User Stories
-To classify the tasks and objectives of our users’ needs with respect to Bioschemas, we decided to collect ‘User Stories’, in the form: \
+To classify the tasks and objectives of our users’ needs related to Bioschemas, we decided to collect ‘User Stories’, in the form: \
 As a `<persona>` I want to `<task>` so that `<objective>`.
 
 We proposed a set of personas in advance and supplemented these as we moved through the exercise with different participants.
-The set of personas we created in advance: Data steward, Developer, Researcher, Manager, Trainer. These were supplemented with ‘Systems Administrator’ and ‘Explorer’.
+The set of personas we created in advance were: Data steward, Developer, Researcher, Manager, and Trainer. These were supplemented with ‘Systems Administrator’ and ‘Explorer’.
 
 ## Main outcomes
-These stories were collected through Miro, and the original set, organised by Persona, are shown in Appendix 2.1. To further analyse this information, we clustered further (Appendix 2.2). This provides a way to organise the tasks into whether they are inward facing (or external facing (for instance a developer may be internally organising Bioschemas for their source, or externally looking to harvest available markup outside of their control). We also identified possible knowledge paths, which could be likened to ‘[Learning Paths](https://elixir-europe.org/internal-projects/commissioned-services/learning-paths-2018)’. We note that there are also objectives that are shared between personas, and tasks common across them.
+These stories were [collected through Miro](https://github.com/PhilReedData/bioschemas-for-mortals/blob/main/paper/miro-board-export.pdf),  and the original set, organised by Persona, are shown in Appendix 2.1. To analyse this information further, we clustered it (Appendix 2.2). This provides a way to organise the tasks into whether they are ‘inward’ facing or ‘external’ facing (for instance a developer may be internally organising Bioschemas for their source, or externally looking to harvest available markup outside of their control). We also identified possible knowledge paths, which could be likened to ‘[Learning Paths](https://elixir-europe.org/internal-projects/commissioned-services/learning-paths-2018)’. This could be used as a way to direct users to sequential guidance towards their objective, in terms of Bioschemas implementation. We note also that there are also objectives that are shared between personas, and tasks common across them.
 
 ![Pie chart showing types of persona surveyed](task-2.png)
 
 To support the collection of user stories, we also hosted an online zoom drop in (Task 3). This provided us valuable information on user experiences in using Bioschemas, as well as indicating specific guidance that was missing. Examples of this include general guidance on metadata, guidance on what Bioschemas is useful for, and the difference between ‘Types’ and ‘Profiles’. We did find this information on the website, but it is not easy to locate. (see also Task 7 - UX/UI). A high level ‘infographic’ was also suggested by multiple participants as being highly desirable. We spun this off as Task 8.
 
-## Next Steps
+## Next steps
 
-Using the clustering, we will be able to correctly annotate new and existing guidance as being appropriate to particular personas, taking into consideration those common tasks.  The ‘arrow’ in the ‘explorer’ persona (Appendix 2.2) could be expressed as a learning path, where an ‘explorer’ visits first to get general knowledge of metadata/schemas, moves further with knowledge of ‘bioschemas’, and then becomes proficient enough to ‘champion’ Bioschemas usage.
+Using the clustering, we will be able to correctly annotate new and existing guidance as being appropriate to particular personas, taking into consideration those common tasks.  The ‘arrow’ in the ‘explorer’ persona (Appendix 2.2) could be expressed as a learning path, where an ‘explorer’ visits first to get general knowledge of metadata/schemas, moves further with knowledge of ‘bioschemas’, and eventually becomes proficient enough to ‘champion’ Bioschemas usage.
 
 
 # Task 3: Drop in session to facilitate Task 2
 ![Screenshot from the drop in session, 17:00 CET, 6th Nov 2024](task-3.png)
 
-A drop-in session was scheduled in the middle of the week, inviting Bioschemas users from outside the hackathon pool of participants to provide a focused set of contributions. We looked at the user stories, landscape and website accessibility. The discoveries were formally captured within the work of Task 2.
+A drop-in session was scheduled in the middle of the week, inviting Bioschemas users from outside the hackathon pool of participants to provide a [focused set of contributions](https://github.com/PhilReedData/bioschemas-for-mortals/blob/main/paper/miro-board-export.pdf). We looked at the user stories, landscape and website accessibility. The discoveries were formally captured within the work of Task 2.
+
+Interested readers are invited to contribute to this ongoing process by [completing the survey](https://bit.ly/bh2410s). 
 
 
 # Task 4: Assets
 
-While the Bioschemas website does provide help and guidance, it is somewhat scattered, poorly ‘labelled’, and hard to find. To exacerbate this issue, the site itself does not have a search function (see also UX/UI, Task 7). This task was undertaken to document what guidance and help is available on the site, where it is located, and whether it is accessible through the menus (in particular, the top navigation bar and its drop down menus). Such activity is necessary to determine which guidance is already written, but hard to find, versus which documentation itself is missing. To execute this task, we started with the GitHub pages and matched ‘raw’ content (in GitHub) to its location on the Bioschemas (live web) site.
+While the Bioschemas website does provide help and guidance, it is somewhat scattered, poorly ‘labelled’, and hard to find. To exacerbate this issue, the site itself does not have a search function (see also UX/UI, Task 7). This task was undertaken to document what guidance and help is available on the site, where it is located, whether it is accurate, and whether it is accessible through the menus (in particular, the top navigation bar and its drop down menus). Such activity is necessary to determine which guidance is already written, but hard to find, versus which documentation itself is missing. To execute this task, we started with the GitHub pages and matched ‘raw’ content (in GitHub) to its location on the Bioschemas (live web) site.
 
 ## Main outcomes
 
 The [register](https://docs.google.com/spreadsheets/d/1pjHv7oKqt-RDcIWIL3r0MNISLj2JHRSL/edit?gid=1406033492#gid=1406033492) of assets includes documentation (by type), whether up to date, for materials both internal and available through some key external resources such TeSS and Zenodo. Some of the information here also ties into the web interface and usability of Bioschemas (Task 7).
 
-1. Use cases are only available from the specification (profiles) & a page of use cases (under live deploys) which is not on the menu, and does not list all use cases.   
-2. There is a 2nd repo for specifications but the link is labelled examples; not accessible (images in a table). The examples is different from the pop up (3)  
-3. Profiles have pop up examples, but others are from repo (2)  
-4. Can reach use cases from profile by the links tab \- could be clearer  
-5. Could use more examples  
-6. Table with black/blue on the tables is an accessibility issue (See Task 7 for more about accessibility issues)
+1. Use cases that may be useful to users are only available from the specifications section of the website, specifically for [profiles](https://bioschemas.org/profiles/), but not [types](https://bioschemas.org/types/). The page dedicated to use cases (under live deploys) is not on the menu, and not all use cases are linked from the profiles pages. 
+2. Linked ‘examples’ from profiles page list point to a [second GitHub repository](https://github.com/BioSchemas/specifications) with no further guidance, while within a specific profile, they provide a pop up image example (3).
+3. Profiles have pop up examples (images), but others are from a GitHub repository (2).
+4. Can reach use cases from profile by the links tab \- could be clearer.
+5. Could use more examples.  
+6. Table with black/blue on the tables is an accessibility issue (See Task 7 for more about accessibility issues).
 
 
-As a concrete outcome in this task, we identified that no guidance for the only supported Bioschemas markup generator was available. This has now been [drafted](https://docs.google.com/document/d/1-NxWpJynnKoq4muF-3gE464zLxgzBJPAA4jBo7GY6B8/edit?tab=t.0), and will appear on the website once finalised. 
+As a preliminary and concrete outcome of this task, we identified that no guidance for the only supported Bioschemas markup generator was available. This has now been [drafted](https://docs.google.com/document/d/1-NxWpJynnKoq4muF-3gE464zLxgzBJPAA4jBo7GY6B8/edit?tab=t.0), and will appear on the website once finalised. 
 
 ![Outcome 4.1 and 4.4: Navigating to use cases is only possible via Profiles and Types pages. There is an index of all use cases which is not in the menu.](task-4a.png)
 
 ![Outcome 4.2 and 4.3: There are different sets of examples depending which route you take through the Profiles and Types pages, some of which are stored raw in a different GitHub repository (Specifications). This second repository has an inconsistent file structure and gaps for the latest versions of some Profiles and Types (such as ComputationalTool).](task-4b.png)
 
-## Next Steps
+## Next steps
 
 This information can be used in other tasks. Firstly, further work is required to organise the available materials logically, facilitating its accessibility through the web interface/search functions. This in of itself may help identify missing guidance. Secondly, this can be cross-referenced with what guidance and which type of guidance the different personas require. For example, a tutorial about markup for implementing bioschemas in github, versus a code example for a particular profile to implement in a web page. Thirdly, we can also check whether the guidance is up to date.
 
