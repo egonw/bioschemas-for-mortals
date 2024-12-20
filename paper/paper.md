@@ -155,7 +155,8 @@ We have created a list of improvements that could be made to the website to faci
 After discussion on the technical effort required in implementing all requests listed in Tables 1 through 4, consideration must be given to whether a re-implementation may be less resource-intensive. Implementation of requested features should be mindful of differing expertise levels with the existing infrastructure (1 week for an informed expert, versus 1 month for someone unfamiliar with the subject).
 
 
-New features to Bioschemas website proposed
+Table 1: New features to Bioschemas website proposed
+
 | Priority | Summary | Implementation Difficulty | Comment |
 | :---- | :---- | :---- | :---- |
 | Must-have | Show the current page in the menu | Low | Could lift from [ETT](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) |
@@ -166,7 +167,8 @@ New features to Bioschemas website proposed
 | Must-have| Breadcrumbs | Medium | Easier to manually add to metadata on each page |
 
 
-Improvements to Bioschemas website proposed
+Table 2: Improvements to Bioschemas website proposed
+
 | Priority | Summary | Implementation Difficulty | Comment |
 | :---- | :---- | :---- | :---- |
 | Must-have | Make titles closer match between page titles, heading and menu links | Low |  |
@@ -176,7 +178,8 @@ Improvements to Bioschemas website proposed
 | Should-have | Harmonise where the menus are; don't bury links to help inside paragraphs \- if its the only way to reach it | Hard |  |
 | Could-have | Make desktop view wider to accommodate left side menu | Hard | Need mobile view to have equivalent |
 
-New content for Bioschemas website proposed
+Table 3: New content for Bioschemas website proposed
+
 | Priority | Summary | Implementation Difficulty | Comment |
 | :---- | :---- | :---- | :---- |
 | Must-have | Infographic why to use Bioschemas for mortals | Medium | See Task 8, could go on home or about page somewhere |
@@ -185,7 +188,8 @@ New content for Bioschemas website proposed
 | Must-have | Contribution guide for web developers  | Medium | README file, how to properly use Bootstrap, CSS/JS |
 | Should-have | Give more description on the Properties page | Medium |  |
 
-Accessibility considerations for Bioschemas website proposed
+Table 4: Accessibility considerations for Bioschemas website proposed
+
 | Priority | Summary | Implementation Difficulty | Comment |
 | :---- | :---- | :---- | :---- |
 | Must-have | Use accessibility tools to thoroughly check site  | Hard | Eg [WAVE](https://wave.webaim.org/)  |
