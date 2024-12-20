@@ -157,9 +157,9 @@ After discussion on the technical effort required in implementing all requests l
 
 Table 1: New features to Bioschemas website proposed
 
-| Summary | Priority;  Difficulty | Comment |
+| Summary | Priority; Difficulty | Comment |
 | :---- | :---- | :---- |
-| Show the current page in the menu. | Must-have ; Low | Could lift from [ETT](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) |
+| Show the current page in the menu. | Must-have; Low | Could lift from [ETT](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) |
 | Search the site. | Must-have; Medium  | Could lift from ETT |
 | Faceted search. | Could-have; Hard  |  |
 | Fly-out submenu navigation, and review navigation content. | Should-have; Medium   | Bootstrap examples |
@@ -169,32 +169,32 @@ Table 1: New features to Bioschemas website proposed
 
 Table 2: Improvements to Bioschemas website proposed
 
-| Priority | Summary | Implementation Difficulty | Comment |
-| :---- | :---- | :---- | :---- |
-| Must-have | Make titles closer match between page titles, heading and menu links | Low |  |
-| Should-have | Full review of content, URLs, names, language | Hard |  |
-| Must-have | Direct people to the profiles vs types description, make it obvious | Very low | Add heading within that page, link to it |
-| Could-have | Simplify the group creation process | Hard | For discussion with Steering group |
-| Should-have | Harmonise where the menus are; don't bury links to help inside paragraphs \- if its the only way to reach it | Hard |  |
-| Could-have | Make desktop view wider to accommodate left side menu | Hard | Need mobile view to have equivalent |
+| Summary | Priority; Difficulty | Comment |
+| :---- | :---- | :---- |
+| Make titles closer match between page titles, heading and menu links. | Must-have; Low |  |
+| Full review of content, URLs, names, language. | Should-have; Hard |  |
+| Direct people to the profiles vs types description, make it obvious. | Must-have; Very low | Add heading within that page, link to it |
+| Simplify the group creation process. | Could-have; Hard | For discussion with Steering group |
+| Harmonise where the menus are; don't bury links to help inside paragraphs \- if its the only way to reach it. | Should-have; Hard |  |
+| Make desktop view wider to accommodate left side menu. | Could-have; Hard | Need mobile view to have equivalent |
 
 Table 3: New content for Bioschemas website proposed
 
-| Priority | Summary | Implementation Difficulty | Comment |
-| :---- | :---- | :---- | :---- |
-| Must-have | Infographic why to use Bioschemas for mortals | Medium | See Task 8, could go on home or about page somewhere |
-| Should-have | Visualisation of what is a profile and what is a type | Medium | Could be a decision tree or other graphic |
-| Must-have | Contribution guide for content writers | Medium | Part of Task 6 |
-| Must-have | Contribution guide for web developers  | Medium | README file, how to properly use Bootstrap, CSS/JS |
-| Should-have | Give more description on the Properties page | Medium |  |
+| Summary | Priority; Difficulty | Comment |
+| :---- | :---- | :---- |
+| Infographic why to use Bioschemas for mortals. | Must-have; Medium | See Task 8, could go on home or about page somewhere |
+| Visualisation of what is a profile and what is a type. | Should-have; Medium | Could be a decision tree or other graphic |
+| Contribution guide for content writers. | Must-have; Medium | Part of Task 6 |
+| Contribution guide for web developers.  | Must-have; Medium | README file, how to properly use Bootstrap, CSS/JS |
+| Give more description on the Properties page. | Should-have; Medium |  |
 
 Table 4: Accessibility considerations for Bioschemas website proposed
 
-| Priority | Summary | Implementation Difficulty | Comment |
-| :---- | :---- | :---- | :---- |
-| Must-have | Use accessibility tools to thoroughly check site  | Hard | Eg [WAVE](https://wave.webaim.org/)  |
-| Should-have | Improve colours of properties links in the Profiles table, eg remove ‘visited’ colour change | Easy | Uses colour alone to convey info, but it’s an inherited problem from Schema.org |
-| Should-have | Add ARIA markup, especially on the Profiles table, so links can be distinguished by screen readers | Medium | Identify other places where this is needed |
+| Summary | Priority; Difficulty | Comment |
+| :---- | :---- | :---- |
+| Use accessibility tools to thoroughly check site.  | Must-have; Hard | Eg [WAVE](https://wave.webaim.org/)  |
+| Improve colours of properties links in the Profiles table, eg remove ‘visited’ colour change. | Should-have; Easy | Uses colour alone to convey info, but it’s an inherited problem from Schema.org |
+| Add ARIA markup, especially on the Profiles table, so links can be distinguished by screen readers. | Should-have; Medium | Identify other places where this is needed |
 
 
 
