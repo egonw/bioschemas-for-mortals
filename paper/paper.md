@@ -146,39 +146,51 @@ Current priorities:
 
 # Task 7: UX/UI
 
-The main point of entry to help for Bioschemas is surfaced as the Bioschemas web site. This was examined with respect to usability and interface aspects, with the aim to provide feedback to the Bioschemas Steering committee to identify improvements that could be made in both short and long term. 
+The main point of entry to help for Bioschemas is surfaced as the Bioschemas website. This was examined with respect to usability and interface aspects, with the aim to provide feedback to the Bioschemas Steering committee to identify improvements that could be made in both short and long term. 
 
 ## Main outcomes
 
-We have created a list of improvements that could be made to the website to facilitate users’ needs in finding appropriate guidance for their particular persona. While the implementation of a ‘persona’ based search, or a decision tree based drill down tool to select appropriate guidance (as with Data Stewardship Wizard) may be worthy long term goals, shorter term implementations, such as a search button, should be easy to implement. The list of suggestions is shown below (Table 1).
+We have created a list of improvements that could be made to the website to facilitate users’ needs in finding appropriate guidance for their particular persona. While the implementation of a ‘persona’ based search, or a decision tree based drill down tool to select appropriate guidance (as with Data Stewardship Wizard) may be worthy long term goals, shorter term implementations, such as a search button, should be easy to implement. Prioritisation is suggested using MoSCoW labels (must-have, should-have, could-have, will-not-have). The list of suggestions is shown below (Tables 1 through 4).
 
-After discussion on the technical effort required in implementing all requests listed in Table 1, consideration must be given to whether a re-implementation may be less resource-intensive. Implementation of requested features should be mindful of differing expertise levels with the existing infrastructure (1 week for an informed expert, versus 1 month for someone unfamiliar with the subject).
+After discussion on the technical effort required in implementing all requests listed in Tables 1 through 4, consideration must be given to whether a re-implementation may be less resource-intensive. Implementation of requested features should be mindful of differing expertise levels with the existing infrastructure (1 week for an informed expert, versus 1 month for someone unfamiliar with the subject).
 
 
-Bioschemas website UX/UI improvements proposed
-
-| Category | Summary | Implementation Difficulty | Comment |
+New features to Bioschemas website proposed
+| Priority | Summary | Implementation Difficulty | Comment |
 | :---- | :---- | :---- | :---- |
-| New feature | Show the current page in the menu | Low | Could lift from [ETT](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) |
-| New feature | Search the site | Medium | Could lift from ETT |
-| New feature | Faceted search | Hard |  |
-| New feature | Fly-out submenu navigation, and review navigation content | Medium | Bootstrap examples |
-| New feature | Make a form for ‘propose new type’ instead of an email address | Low | Could lift from RDMkit |
-| New feature | Breadcrumbs | Medium | Easier to manually add to metadata on each page |
-| Improvement | Make titles closer match between page titles, heading and menu links | Low |  |
-| Improvement | Full review of content, URLs, names, language | Hard |  |
-| Improvement | Direct people to the profiles vs types description, make it obvious | Very low | Add heading within that page, link to it |
-| Improvement | Simplify the group creation process | Hard | For discussion with Steering group |
-| Improvement | Harmonise where the menus are; don't bury links to help inside paragraphs \- if its the only way to reach it | Hard |  |
-| Improvement | Make desktop view wider to accommodate left side menu | Hard | Need mobile view to have equivalent |
-| New content | Infographic why to use Bioschemas for mortals | Medium | See Task 8, could go on home or about page somewhere |
-| New content | Visualisation of what is a profile and what is a type | Medium | Could be a decision tree or other graphic |
-| New content | Contribution guide for content writers | Medium | Part of Task 6 |
-| New content | Contribution guide for web developers  | Medium | README file, how to properly use Bootstrap, CSS/JS |
-| New content | Give more description on the Properties page | Medium |  |
-| Accessibility | Use accessibility tools to thoroughly check site  | Hard | Eg [WAVE](https://wave.webaim.org/)  |
-| Accessibility | Improve colours of properties links in the Profiles table, eg remove ‘visited’ colour change | Easy | Uses colour alone to convey info, but it’s an inherited problem from Schema.org |
-| Accessibility | Add ARIA markup, especially on the Profiles table, so links can be distinguished by screen readers | Medium | Identify other places where this is needed |
+| Must-have | Show the current page in the menu | Low | Could lift from [ETT](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) |
+| Must-have | Search the site | Medium | Could lift from ETT |
+| Could-have | Faceted search | Hard |  |
+| Should-have | Fly-out submenu navigation, and review navigation content | Medium | Bootstrap examples |
+| Could-have | Make a form for ‘propose new type’ instead of an email address | Low | Could lift from RDMkit |
+| Must-have| Breadcrumbs | Medium | Easier to manually add to metadata on each page |
+
+
+Improvements to Bioschemas website proposed
+| Priority | Summary | Implementation Difficulty | Comment |
+| :---- | :---- | :---- | :---- |
+| Must-have | Make titles closer match between page titles, heading and menu links | Low |  |
+| Should-have | Full review of content, URLs, names, language | Hard |  |
+| Must-have | Direct people to the profiles vs types description, make it obvious | Very low | Add heading within that page, link to it |
+| Could-have | Simplify the group creation process | Hard | For discussion with Steering group |
+| Should-have | Harmonise where the menus are; don't bury links to help inside paragraphs \- if its the only way to reach it | Hard |  |
+| Could-have | Make desktop view wider to accommodate left side menu | Hard | Need mobile view to have equivalent |
+
+New content for Bioschemas website proposed
+| Priority | Summary | Implementation Difficulty | Comment |
+| :---- | :---- | :---- | :---- |
+| Must-have | Infographic why to use Bioschemas for mortals | Medium | See Task 8, could go on home or about page somewhere |
+| Should-have | Visualisation of what is a profile and what is a type | Medium | Could be a decision tree or other graphic |
+| Must-have | Contribution guide for content writers | Medium | Part of Task 6 |
+| Must-have | Contribution guide for web developers  | Medium | README file, how to properly use Bootstrap, CSS/JS |
+| Should-have | Give more description on the Properties page | Medium |  |
+
+Accessibility considerations for Bioschemas website proposed
+| Priority | Summary | Implementation Difficulty | Comment |
+| :---- | :---- | :---- | :---- |
+| Must-have | Use accessibility tools to thoroughly check site  | Hard | Eg [WAVE](https://wave.webaim.org/)  |
+| Should-have | Improve colours of properties links in the Profiles table, eg remove ‘visited’ colour change | Easy | Uses colour alone to convey info, but it’s an inherited problem from Schema.org |
+| Should-have | Add ARIA markup, especially on the Profiles table, so links can be distinguished by screen readers | Medium | Identify other places where this is needed |
 
 
 
