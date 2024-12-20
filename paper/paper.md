@@ -157,14 +157,14 @@ After discussion on the technical effort required in implementing all requests l
 
 Table 1: New features to Bioschemas website proposed
 
-| Summary | Priority; Implementation Difficulty | Comment |
+| Summary | Priority;  Difficulty | Comment |
 | :---- | :---- | :---- |
-| Show the current page in the menu | Must-have ; Low | Could lift from [ETT](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) |
-| Search the site | Medium; Must-have | Could lift from ETT |
-| Faceted search | Hard; Could-have |  |
-| Fly-out submenu navigation, and review navigation content | Medium; Should-have  | Bootstrap examples |
-| Make a form for ‘propose new type’ instead of an email address | Low; Could-have | Could lift from RDMkit |
-| Breadcrumbs | Medium; Must-have | Easier to manually add to metadata on each page |
+| Show the current page in the menu. | Must-have ; Low | Could lift from [ETT](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) |
+| Search the site. | Must-have; Medium  | Could lift from ETT |
+| Faceted search. | Could-have; Hard  |  |
+| Fly-out submenu navigation, and review navigation content. | Should-have; Medium   | Bootstrap examples |
+| Make a form for ‘propose new type’ instead of an email address. | Low; Could-have | Could lift from RDMkit |
+| Breadcrumbs. | Must-have; Medium  | Easier to manually add to metadata on each page |
 
 
 Table 2: Improvements to Bioschemas website proposed
