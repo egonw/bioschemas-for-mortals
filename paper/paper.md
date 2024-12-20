@@ -196,7 +196,7 @@ Accessibility considerations for Bioschemas website proposed
 
 # Task 8: Infographic
 
-Multiple participants across our activities stated their desire to have a high level infographic to serve as an entry point for Bioschemas.
+Multiple participants across our activities stated their desire to have a high level infographic to serve as an entry point for Bioschemas. Currently, we are soliciting ideas on how to express the concepts we wish to convey, and on what level of detail.
 
 ## Main outcomes
 
@@ -208,23 +208,33 @@ The infographic could convey:
 * What's the difference between types and profiles?  
 * How do I find out more?
 
-In a short brainstorm session we have drafted one panel (or a 3 or 4 panel infographic) (Appendix 8.1). This showcases the concepts ‘cloud’ (the internet/www), the ‘you’, being central in the infographic, and the ‘relationship’ between them, which we represent as a ‘cloud’ of logos, which will be taken from the logos of the resources listed in the live deploys pages of bioschemas, with the objective to cast the user into a familiar environment, since they should hopefully recognise some of those logos.
+In a short brainstorming session we have drafted one panel (or a 3 or 4 panel infographic) (Appendix 8.1). This showcases the concept ‘cloud’ (the internet/www), which conveys the totality of the internet and interconnectedness of resources. The ‘you’, as the user being central in the ‘cloud’, and an integral agent in this ecosystem, reflected by a central positioning in the infographic. To demonstrate the ‘relationship’ between user and internet, and to build this familiarity into the infographic, we rely on the user self-identifying through the  ‘collection’ of logos in the image. This logo collection will be taken from the logos of the resources listed in the live ‘deploys’ pages of Bioschemas, with the objective to cast the user into a familiar environment through visual association with those logos.
 
 ## Next steps
 
-More work is needed to converge upon the remaining ‘panels’ for the infographic. This can be undertaken in a community exercise, possibly on the bioschemas community call. Also during this event we had an icebreaker activity, where participants drew a colleague with their eyes shut (Appendix B).  
+More work is needed to converge upon the remaining ‘panels’ for the infographic. This can be undertaken in a community exercise, possibly on the bioschemas community call.
 
+
+# Conclusions
+
+Over the course of the hackathon, we identified multiple issues that should be addressed to help less technical Bioschemas users, We gained valuable insights into their typical tasks and interactions with the website. We have broken down the issues into concrete tasks, with initial plans by which to proceed. The ‘hackathon’ enabled us to work with numerous interested parties and work on multiple tasks simultaneously; this format seems particularly well-suited to the type of interactive work required.
+
+For each of the tasks identified above, we have documented the progress made at the hackathon, and the next steps. This ‘backlog’  has already been highlighted to the Bioschemas Steering Committee, and has been actioned; a dedicated hackathon has been planned. Following this event, we will begin planning the next ELIXIR biohackathon proposal, which will continue the work we started here, but with ‘developer’ assistance to implement solutions. The precise details will be fleshed out in the coming weeks.
+
+Bioschemas is currently an important but under-utilised metadata ‘interconnection’ mechanism through which ELIXIR resources, tools and services can be linked. Once these links are applied more systematically and comprehensively, one can look more broadly at connections to other related resources in other e-Infrastructures. To facilitate this wider approach, and to avoid ‘bio’-focused biases which exist in other domains, precluding Bioschemas usage, there is a need to provide equivalent means to develop and support users in other schemas. For this reason, Bioschemas has developed a ‘sister’ site to host such schemas: Schemas.sci. Here, it is envisioned that domain-agnostic, and non-’bio’ schemas could be shared, enabling multi-disciplinary linking of resources for the benefit of research, on an open community platform. For this reason, we will also use the learnings from the Bioschemas hackathons to progress more quickly on the schemas.sci site.
 
 
 # Acknowledgements
 
 - Led by: Nick Juty, Helena Schnitzer, Phil Reed
-- Participants (on site): Emily Knight, Lucy Pelton, Deborah van Wyk
+- Participants (on site): Bert Droesbeke, Emily Knight, Lucy Pelton, Deborah van Wyk
 - Online: Leyla Jael Castro, Munazah Andrabi, Ulrike Wittig, Finn Bacall, Ginger Tseung
 - Interactions with other groups: \#[24](https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/24.md), \#[21](https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/21.md) 
 - Project Repository: https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/10.md
 
+We also acknowledge the contributions of project participants for our icebreaker activity, where participants drew a colleague with their eyes shut (Appendix B).
 
+Supported by ELIXIR, the research infrastructure for life science data, this work was carried out as part of the ELIXIR Biohackathon Europe.
 
 # Appendices
 
